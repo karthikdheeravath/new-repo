@@ -7,3 +7,6 @@ if count ==2:
     print("prime number")
 else:
     print("not a prime number")
+print("Always Work For in the create a separate branch and work on it.")
+
+
